@@ -14,7 +14,7 @@ def create_database():
         connection = pymysql.connect(
             host='localhost',
             user='root',      
-            password='VenomSnakeMGS5',      
+            password='MAXXZZEL79',      
             charset='utf8mb4'
         )
         
